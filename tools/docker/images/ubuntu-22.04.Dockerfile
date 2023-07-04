@@ -1,7 +1,7 @@
 # Create a virtual environment with all tools installed
 # Latest rolling aka 22.04
 # ref: https://hub.docker.com/_/ubuntu
-FROM ubuntu:22.04 AS env
+FROM ubuntu:22.10 AS env
 
 #############
 ##  SETUP  ##
